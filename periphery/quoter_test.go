@@ -4,9 +4,9 @@ import (
 	"math/big"
 	"testing"
 
+	"github.com/Gkirito/uniswapv3-sdk/entities"
+	"github.com/Gkirito/uniswapv3-sdk/utils"
 	core "github.com/daoleno/uniswap-sdk-core/entities"
-	"github.com/daoleno/uniswapv3-sdk/entities"
-	"github.com/daoleno/uniswapv3-sdk/utils"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/stretchr/testify/assert"
 )
